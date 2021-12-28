@@ -1,0 +1,7 @@
+APUcard Community Rules
+
+-
+
+Blacklist
+
+- 
