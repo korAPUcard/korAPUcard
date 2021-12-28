@@ -2,6 +2,8 @@
 
 APUcard's Community Rules.  
 Mostly used in YouTube/Twitch channel, etc.
+
+If you are requesting a waiver for a deportation action caused by breaking the rules with this blacklist, it will take at least approximately *1,000+* minutes.
   
 Support languages: **English**, **Korean**
   
