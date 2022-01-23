@@ -16,6 +16,7 @@ Support languages: **English**, **Korean**
 - Extremist (Ex: Sexism(include Feminism), Racism, Nationality discrimination, etc.) *(Our community does not accept any discrimination.)*
 - Any act that praises pseudo-science and denies or criticizes science *(Our community is science and technology oriented with games.)*
 - Unauthorized advertising
+- Spoiler and backseating(Exclude when requested)
 - etc.
 
   
@@ -29,4 +30,5 @@ Support languages: **English**, **Korean**
 - 극단주의 (예: 성차별, 인종차별, 국적차별 등등) *(우리 커뮤니티는 그 어떤 차별도 허용하지 않습니다.)*
 - 모든 유사과학 찬양 또는 과학 부정 및 비난 행위 *(우리 커뮤니티는 게임 뿐 아니라 과학 및 기술을 지향합니다.)*
 - 비인가 광고
+- 스포일러 및 훈수질(요구했을 때는 예외)
 - 기타 금지 사항들
