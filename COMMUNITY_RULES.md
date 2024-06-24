@@ -32,4 +32,4 @@
 - `@everyone` or `@here` pings cannot be used by anyone other than `@Administrator` and `@Moderator`. (Used only for notifications) Unauthorized abuse may result in muting.
 - In case of violation of the regulations, a penalty will be applied depending on the situation. (Maximum number of warnings: 3. If exceeded, permanent expulsion)
 -----
-#### 블랙리스트(Blacklist): https://github.com/korAPUcard/korAPUcard/blob/main/RULES.md
+#### [키워드 블랙리스트(Keyword Blacklist)](https://github.com/korAPUcard/korAPUcard/blob/main/KEYWORD_BLACKLIST.md)
