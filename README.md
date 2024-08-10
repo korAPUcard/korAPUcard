@@ -20,3 +20,10 @@ If you want to see my major projects. [Check this page](https://github.com/orgs/
 korAPUcard/korAPUcard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+-----
+
+All repositories what I created is copyrighted. Do not copy, edit, redistribute it. Maybe I'm not the only copyright holder. I may have gotten permission from the original author, but you may not.   
+So, to avoid legal disputes, please never copy my source code without permission.
+
+© 2024. APUC Software All rights reserved.
