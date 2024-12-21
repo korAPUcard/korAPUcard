@@ -15,7 +15,7 @@ Support languages: **English**, **Korean**
 
 - **"짱구"와 관련된 모든 콘텐츠와 키워드 *(우선 순위 극도로 매우 높음. 예외 없음)***
 - 종교적, 정치적, 극단주의/사회적 논란 요소 등 키워드, 발언 및 행동 *(예: 성차별, 인종차별, 나치, 욱일기 등)*
-- 정치적 올바름(Political Correctness)와 관련된 발언
+- 정치적 올바름(Political Correctness), 페미니스트, 백인 우월주의, 여성/남성 혐오 발언 등 극단주의사상과 관련된 발언, 활동 및 콘텐츠
 - 불법 행위, 관련 키워드 발언, 범죄 옹호 등
 - 유사과학 유포, 지지 행동/발언 등
 - 비인가 광고
@@ -26,7 +26,7 @@ Support languages: **English**, **Korean**
 
 - **All content and keyword related to "Jjang-gu" *(EXTREME CRITICALLY HIGH PRIORITY. NO EXCEPTIONS)***
 - Keywords, remarks, and actions such as religious, political, extremist/social controversy elements *(e.g. sexism, racism, Nazis, rising sun flag, etc.)*
-- Related comments about political correctness.
+- Speeches, activities, and content related to extremist ideology, including political correctness, feminism, white supremacy, and misogynistic/male-hating speech.
 - Illegal acts, remarks related to keywords, advocacy of crime, etc.
 - Dissemination of pseudoscience, supportive actions/statements, etc.
 - Unauthorized advertising
